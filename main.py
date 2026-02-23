@@ -1,0 +1,1 @@
+print("BYPASS Studio booting...")
